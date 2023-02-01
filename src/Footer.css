@@ -1,0 +1,172 @@
+.Footer_div {
+display: flex;
+margin-top: 50px;
+background-color: rgb(37,52,68);
+height: 400px;
+color: white;
+margin-left: -110px;
+margin-right: -110px;
+}
+footer {
+    display: flex;
+}
+.FtSection2 {
+    margin-left: 140px;
+}
+.Logo {
+    width: max-content;
+    position: relative;
+}
+.Logo2 {
+    position: absolute;
+    left: 95px;
+    top: 160px;
+}
+.Logo2 img{
+    width: 260px;
+    height: 45px;
+}
+.Links {
+   margin-left: 420px;
+    padding-top: 50px;
+    display: flex;
+    font-size: 15px;
+}
+.Sirket li {
+    line-height: 2.2;
+}
+.Sirket li a {
+    color: rgb(197, 197, 198);
+}
+.Sirket li a:hover {
+    color: rgb(255, 0, 60);
+}
+.sirket1 {
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+.Musteri {
+    margin-left: 100px;
+}
+.Musteri li {
+    line-height: 2.2;
+}
+.musteri1 {
+    font-size: 19px;
+    font-weight: bold;
+    color: white;
+}
+.Musteri li a {
+    color: rgb(195, 195, 195);
+}
+.Musteri li a:hover {
+    color: rgb(255, 0, 60);
+}
+.contacts {
+    margin-top: 58px;
+}
+.contacts ul {
+    margin-top: 20px;
+    display: flex;
+    margin-bottom: 70px;
+}
+.contacts ul li a span {
+    margin-left: 8px;
+    font-size: 17px;
+    color: rgb(220, 220, 220);
+}
+.contacts ul li a span:hover {
+    color: rgb(255, 0, 60);
+}
+.contacts ul li a:hover {
+    color: rgb(35,33,36);
+}
+.foticon1 {
+    width: 23px;
+    height: 23px;
+    color: rgb(220, 220, 220);
+}
+.foticon1:hover {
+    color: rgb(255, 0, 60);
+}
+.foticon2  {
+    margin-left: 25px;
+    width: 23px;
+    height: 23px;
+    color: rgb(220, 220, 220);
+}
+.foticon2:hover {
+    color: rgb(255, 0, 60);
+}
+.contacts h3 {
+    margin-left: 35px;
+    font-size: 21px;
+    font-weight: bolder;
+}
+.Contact h4 {
+    margin-left: 30px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-bottom: 17px;
+}
+
+.contacts ul li a span {
+    height: 27px;
+}
+.SocialMedia ul li a {
+    margin-right: 22px;
+    height: 27px;
+}
+.SocialMedia ul {
+    display: flex;
+}
+.Fbicon {
+    font-size:27px;
+    color: #FFFFFF;
+}
+.Instaicon {
+    font-size:27px;
+    color: #FFFFFF;
+}
+.Yticon {
+    font-size:27px;
+    color: #FFFFFF;
+}
+.Wpicon {
+    font-size:27px;
+    color: #FFFFFF;
+}
+.Tgicon {
+    font-size:27px;
+    color: #FFFFFF;
+}
+.Lkicon {
+    font-size:27px;
+    color: #FFFFFF;
+}
+.Twicon {
+    font-size:27px;
+    color: #FFFFFF;
+}
+.Tkicon {
+    font-size:27px;
+    color: #FFFFFF;
+}
+.Payment {
+    margin-top: 60px;
+    margin-left: -15px;
+}
+.Payment ul li {
+    float: left;
+}
+.Payment ul li img {
+    margin-right: 15px;
+   width: 80px;
+    height: 40px;
+}
+.Huquq {
+    font-size: 15px;
+    margin-left: 100px; 
+    margin-top: 20px;
+}

@@ -1,0 +1,107 @@
+.vakansiya{
+    background-color: #F7F6F2;
+}
+
+.Kecidler  {
+    margin-top: 30px;
+    margin-left: 10px;
+    position: relative;
+}
+.Kecidler a {
+    color: rgb(107, 102, 102);
+}
+.Kecidler a span {
+    font-size: 18px;
+    font-weight: bolder;
+}
+.RightIcon {
+    position: absolute;
+    top: 6px;
+    left: 115px;
+}
+.Kecidler label {
+    position: absolute;
+    left: 140px;
+    top: 1.56px;
+    color: black;
+    font-size: 17px;
+}
+
+.Vakansiyalar_soz13{
+    height: 270px;
+    padding-top: 63.75px;
+    font-size: 35px;
+    padding-left: 45px;
+    margin-top: 40px;
+    font-weight: 600;
+    margin-bottom: 45px;
+    color: black;
+    display: inline;
+}
+
+.opsi_vakan{
+    height: 270px;
+}
+
+.vakansiya_person{
+    margin-left: 720px;
+    margin-top: 50px;
+    padding-top: 15px;
+    width: 180px;
+}
+
+.accordion_header_1H{
+    margin-bottom: 20px;
+    margin-left: 299.5px;
+    margin-right: 299.5px;
+    margin-top: 10px;
+}
+
+.accordion_header_1{
+    width: 600px;
+    height: 50px;
+    font-size: 18px;
+    color: black;
+    border: 1px solid #777777;
+    border-radius: 3px;
+    margin-bottom: 0;
+}
+
+.is_adi{
+    padding-left: 22px;
+}
+
+.accordion-button{
+    width: 600px;
+    height: 50px;
+    padding-right: 410px;
+}
+
+.teleb_34{
+    margin-top: 40px;
+    color: black;
+    font-weight: 500;
+    padding-left: 15px;
+}
+
+.ul_lerr{
+    padding-left: 32px;
+    list-style: none;
+}
+
+.ul_lerr li::before {
+    content: '';
+    width: 5px;
+    top: -2px;
+    height: 5px;
+    right: 10px;
+    border: 2px solid #ea2427;
+    border-radius: 50%;
+    position: relative;
+    display: inline-block;
+  }
+
+.li_classt{
+    margin-top: 15px;
+    font-size: 14px;
+}

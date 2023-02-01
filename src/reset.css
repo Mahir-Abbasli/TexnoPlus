@@ -1,0 +1,38 @@
+.boyuk_div{
+    margin-right: 110px;
+    margin-left: 110px;
+}
+
+
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border-radius: 0;
+    border: 0;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+html, body {
+    width: 100%;
+    min-height: 100vh;
+    float: left;
+}
+button {
+    cursor: pointer;
+    background-color: transparent;
+}
+a {
+    text-decoration: none;
+}
+a, span {
+    display: inline-block;
+}
+ul, li {
+    list-style-type: none;
+}

@@ -1,0 +1,338 @@
+.sidebar {
+    border: 0.2px solid rgb(210,210,210);
+    width: 283px;
+    z-index: 20;
+    height: 535.5px;
+}
+.mainkt {
+    margin-bottom: 0px;
+    padding-left: 0px;
+}
+.mainkt li .kt {
+    margin-top: 18px;
+    margin-bottom: 18px;
+    position: relative;
+}
+
+.kt8 {
+    margin-top: 14px;
+    margin-bottom: 17px;
+}
+
+.mainkt li .kt:after {
+    content: "";
+    position: absolute;
+    left: 8px;
+    opacity: 0.4;
+    top: 33px;
+    width: 257px;
+    border-bottom: 1px solid rgb(165, 165, 165);
+}
+.kt4:after {
+    content: "";
+    position: absolute;
+    left: 8px;
+    opacity: 0.4;
+    top: 33px;
+    width: 257px;
+    border-bottom: 1px solid rgb(165, 165, 165);
+}
+
+.kt4 img{
+    width: 22px;
+    height: 22px;
+}
+.mainkt li a img {
+    width: 19px;
+    height: 19px;
+    margin-left: 10px;
+}
+.mainkt li a span {
+    color: #020303;
+    font-size: 14px;
+    padding-left: 10px;
+}
+.mainkt  li a span:hover {
+    color: rgb(255, 0, 60);
+    transition: 200ms;
+}
+
+
+.menyudiv1{
+    z-index: 20;
+    background-color: rgb(255,255,255);
+    position: absolute;
+    top: -1px;
+    left: 273.5px;
+    width: 1020px;
+    height: 600px;
+    visibility: hidden;
+    opacity: 0;
+    border: 0.2px solid rgb(210,210,210);
+    transition: 300ms all;
+}
+.menyudiv2{
+    z-index: 20;
+    background-color: rgb(255,255,255);
+    width: 0px;
+    position: absolute;
+    top: -61px;
+    left: 273.5px;
+    visibility: hidden;
+    width: 1020px;
+    height: 600px;
+    opacity: 0;
+    border: 0.2px solid rgb(210,210,210);
+    transition: 300ms;
+}
+.menyudiv3{
+    z-index: 20;
+    background-color: rgb(255,255,255);
+    width: 0px;
+    position: absolute;
+    top: -121px;
+    left: 273.5px;
+    width: 1020px;
+    height: 600px;
+    visibility: hidden;
+    opacity: 0;
+    border: 0.2px solid rgb(210,210,210);
+    transition: 300ms all;
+}
+.menyudiv4{
+    z-index: 20;
+    background-color: rgb(255,255,255);
+    width: 0px;
+    position: absolute;
+    top: -198.5px;
+    left: 273.5px;
+    width: 1020px;
+    height: 600px;
+    visibility: hidden;
+    opacity: 0;
+    border: 0.2px solid rgb(210,210,210);
+    transition: 300ms all;
+}
+.menyudiv5{
+    z-index: 20;
+    background-color: rgb(255,255,255);
+    width: 0px;
+    position: absolute;
+    top: -240.5px;
+    left: 273.5px;
+    width: 1020px;
+    height: 600px;
+    visibility: hidden;
+    opacity: 0;
+    border: 0.2px solid rgb(210,210,210);
+    transition: 300ms all;
+}
+.menyudiv6{
+    z-index: 20;
+    background-color: rgb(255,255,255);
+    width: 0px;
+    position: absolute;
+    top: -300.5px;
+    left: 273.5px;
+    width: 1020px;
+    height: 600px;
+    visibility: hidden;
+    opacity: 0;
+    border: 0.2px solid rgb(210,210,210);
+    transition: 300ms all;
+}
+.menyudiv7{
+    z-index: 20;
+    background-color: rgb(255,255,255);
+    width: 0px;
+    position: absolute;
+    top: -360.5px;
+    left: 273.5px;
+    width: 1020px;
+    height: 600px;
+    visibility: hidden;
+    opacity: 0;
+    border: 0.2px solid rgb(210,210,210);
+    transition: 300ms all;
+}
+.menyudiv8{
+    z-index: 20;
+    background-color: rgb(255,255,255);
+    width: 0px;
+    position: absolute;
+    top: -421px;
+    left: 273.5px;
+    width: 1020px;
+    height: 600px;
+    visibility: hidden;
+    opacity: 0;
+    border: 0.2px solid rgb(210,210,210);
+    transition: 300ms all;
+}
+.menyu01 {
+    position: relative;
+}
+.menyu01:hover {
+   background-color: rgb(165, 165, 165);
+}
+.menyu01:hover div {
+    z-index: 20;
+    opacity: 1;
+    width: 1020px;
+    height: 600px;
+    visibility: visible;
+}
+
+.menyu02 {
+    position: relative;
+}
+.menyu03 {
+    position: relative;
+}
+.menyu03:hover {
+   background-color: rgb(165, 165, 165);
+}
+.menyu02:hover {
+   background-color: rgb(165, 165, 165);
+}
+.menyu02:hover div{
+    z-index: 20;
+    opacity: 1;
+    width: 1020px;
+    height: 600px;
+    visibility: visible;
+}
+.menyu03:hover div{
+    z-index: 20;
+    opacity: 1;
+    width: 1020px;
+    height: 600px;
+    visibility: visible;
+}
+.menyu04 {
+    position: relative;
+}
+.menyu04:hover div{
+    z-index: 20;
+    opacity: 1;
+    width: 1020px;
+    height: 600px;
+    visibility: visible;
+}
+.menyu05 {
+    position: relative;
+}
+.menyu05:hover div{
+    z-index: 20;
+    opacity: 1;
+    width: 1020px;
+    height: 600px;
+    visibility: visible;
+}
+.menyu06 {
+    position: relative;
+}
+.menyu06:hover {
+   background-color: rgb(165, 165, 165);
+}
+.menyu06:hover div{
+    opacity: 1;
+    width: 1020px;
+    height: 600px;
+    visibility: visible;
+}
+.menyu07 {
+    position: relative;
+}
+.menyu07:hover {
+   background-color: rgb(165, 165, 165);
+}
+.menyu08:hover div{
+    z-index: 20;
+    opacity: 1;
+    width: 1020px;
+    height: 600px;
+    visibility: visible;
+}
+.menyu08 {
+    position: relative;
+}
+.menyu08:hover {
+   background-color: rgb(165, 165, 165);
+}
+.menyu07:hover div {
+    opacity: 1;
+    width: 1020px;
+    height: 600px;
+    visibility: visible;
+}
+.menyu05:hover {
+   background-color: rgb(165, 165, 165);
+}
+.menyu04:hover {
+   background-color: rgb(165, 165, 165);
+}
+.menyu1 li a span {
+    margin-bottom: 7px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.Smartfon {
+    margin-bottom: 10px;
+}
+.lastapple {
+    margin-bottom: 11px;
+}
+.lastsamsung {
+    margin-bottom: 11px;
+}
+.lastxiaomi {
+    margin-bottom: 11px;
+}
+
+.Smartfon a span {
+    margin-top: 15px;
+    font-weight: bolder;
+    font-size: 16px;
+}
+.Apple {
+    font-weight: bold;
+}
+.Samsung {
+    font-weight: bold;
+}
+.Xiaomi {
+    font-weight: bold;
+}
+
+.menyu1 {
+    float: left;
+}
+.menyu11 {
+    margin-left: 575px;
+}
+.menyu11 li a span {
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+.menyu12 {
+    position: absolute;
+    left: 290px;
+}
+.menyu12 li a span {
+    margin-bottom: 7px;
+    cursor: pointer;
+}
+.menyu11 li a span {
+    margin-bottom: 7px;
+}
+.komputer {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.Noutbuk a span {
+    margin-top: 15px;
+    font-weight: bolder;
+    font-size: 16px;
+}

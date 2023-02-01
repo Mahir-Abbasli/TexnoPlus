@@ -1,0 +1,88 @@
+.Kecidler  {
+    margin-top: 30px;
+    margin-left: 10px;
+    position: relative;
+}
+.Kecidler a {
+    color: rgb(107, 102, 102);
+}
+.Kecidler a span {
+    font-size: 18px;
+    font-weight: bolder;
+}
+.RightIcon {
+    position: absolute;
+    top: 6px;
+    left: 115px;
+}
+.Kecidler label {
+    position: absolute;
+    left: 140px;
+    top: 1.56px;
+    color: black;
+    font-size: 17px;
+}
+h1 {
+    margin-top: 30px;
+    margin-bottom: 40px;
+    font-weight: bolder;
+    font-size: 40px;
+    color: black;
+}
+h5 {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-size: 19px;
+    color: black;
+    font-weight: bolder;
+}
+.MainTerms1 {
+    margin-bottom: 10px;
+}
+.MainTerms1 em {
+    font-size:  19px;
+}
+.MainTerms1 span {
+    text-align: justify;
+    display: inline;
+    font-size: 17px;
+}
+.SpecialTerms p {
+    text-align: justify;
+    font-size: 17px;
+}
+.DeliveryTerms p {
+    text-align: justify;
+    font-size: 17px;
+}
+.Termsofuse h5 {
+    font-size: 30px;
+    font-weight: bolder;
+    color: black;
+    margin-top: 25px;
+}
+.Termsofuse p {
+    margin-top: 10px;
+    text-align: justify;
+    font-size: 17px;
+}
+.Corporative p {
+    margin-top: 15px;
+    font-size: 17px;
+    text-align: justify;
+}
+.Corporative span {
+    margin-top: 20px;
+    font-size: 17px;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+ .Listes li {
+    list-style-type: decimal;
+}
+ .Corporative ul li {
+    list-style-type: disc;
+}
+strong {
+    font-size: 16px;
+}

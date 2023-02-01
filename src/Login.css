@@ -1,0 +1,467 @@
+.Giris {
+    margin-top: 20px;
+}
+.Daxilol {
+    margin-left: 20px;
+    font-size: 33px;
+    font-weight: bold;
+    color: rgb(255, 0, 60);
+}
+.Sign_in {
+    margin-top: 50px;
+    border-radius: 5px;
+    margin-left: 390px;
+    background-color: #ffffff;
+    width: 470px;
+    border: 0.1px solid #efe8e8;
+}
+.Sign_up {
+    margin-top: 50px;
+    border-radius: 5px;
+    margin-left: 390px;
+    background-color: #ffffff;
+    width: 540px;
+    border: 0.1px solid #efe8e8;
+}
+.sgnpassword a {
+    margin-bottom: 5px;
+    font-size: 12px;
+    margin-top: 10px;
+    margin-left: 340px;
+    color: #282828;
+}
+.sgnpassword1 a {
+    margin-bottom: 5px;
+    font-size: 12px;
+    margin-top: 10px;
+    margin-left: 414px;
+    color: #282828;
+}
+.sgnpassword a:hover {
+    text-decoration: underline;
+}
+.sgnpassword1 a:hover {
+    text-decoration: underline;
+}
+.Sign_in hr {
+    border: 1px solid;
+    margin-top: 10px;
+    margin-left: 0px;
+    width: 499px;
+    border: 0;
+    color: #c4b1b1;
+}
+.Sign_up hr {
+    border: 1px solid;
+    margin-top: 10px;
+    margin-left: 0px;
+    width: 499px;
+    border: 0;
+    color: #c4b1b1;
+}
+.Sign_in form {
+    margin-top: 25px;
+    position: relative;
+}
+.Sign_up form {
+    margin-top: 25px;
+    position: relative;
+}
+.Sign_in form label {
+    margin-left: 10px;
+    font-size: 11.8px;
+    font-family: "Roboto";
+}
+.Sign_up form label {
+    margin-left: 10px;
+    font-size: 11.8px;
+    font-family: "Roboto";
+}
+.Sign_in form .textform,.passwordform {
+    background-color: rgb(244, 244, 244);
+    position: absolute;
+    left: 170px;
+    width: 280px;
+    height: 31px;
+    padding-left: 5px;
+    font-size: 13px;
+    border: 1px solid rgb(225, 214, 214);
+    border-radius:  3px;
+}
+.passwordform1 {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 170px;
+    width: 340px;
+    height: 31px;
+    padding-left: 5px;
+    font-size: 13px;
+    border: 1px solid rgb(225, 214, 214);
+    border-radius:  3px;
+}
+
+.AreaCode { 
+    position: absolute;
+    top: 0.2px;
+    margin-left: 75px;
+    width: 55px;
+    background-color: rgb(244, 241, 241);
+    height: 25px;
+}
+.NumberForm2 {
+    margin-left: 80px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 170px;
+    width: 260px;
+    height: 25px;
+    padding-left: 5px;
+    font-size: 13px;
+    border: 1px solid rgb(225, 214, 214);
+    border-radius:  1px;
+}
+.Forms4 {
+    position: relative;
+    margin-top: 20px;
+}
+.Sign_up form .textform {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 170px;
+    width: 340px;
+    height: 31px;
+    padding-left: 5px;
+    font-size: 13px;
+    border: 1px solid rgb(225, 214, 214);
+    border-radius:  3px;
+}
+.textform2 {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 170px;
+    width: 130px;
+    height: 31px;
+    padding-left: 5px;
+    font-size: 13px;
+    border: 1px solid rgb(225, 214, 214);
+    border-radius:  1px;
+}
+.textform3 {
+    margin-left: 140px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 170px;
+    width: 200px;
+    height: 31px;
+    padding-left: 5px;
+    font-size: 13px;
+    border: 1px solid rgb(225, 214, 214);
+    border-radius:  1px;
+}
+.textform4 {
+    background-color: rgb(244, 244, 244);
+    position: absolute;
+    left: 170px;
+    width: 180px;
+    height: 31px;
+    padding-left: 5px;
+    font-size: 13px;
+    border: 1px solid rgb(225, 214, 214);
+    border-radius:  3px;
+}
+.NameFormSpan {
+    margin-left: 172px;
+}
+.Firstn {
+    font-size: 12px;
+}
+.Secondn {
+    margin-left: 123.5px;
+    font-size: 12px;
+}
+.Sign_in form .textform:focus,.passwordform:focus {
+    background-color: #FFFFFF;
+    border: 1px solid rgb(173, 172, 172);
+}
+.BirthdayForm {
+    margin-top: 14px;
+}
+.NameForm {
+    margin-bottom: 11px;
+}
+.NameForm2 {
+    margin-bottom: 14px;
+}
+.-sp {
+    margin-left: 207px;
+    font-size: 18px;
+    font-weight: bolder;
+}
+.Forms2 {
+    margin-top: 14px;
+    margin-bottom: 14px;
+    position: relative;
+}
+.forms6 {
+    position: relative;
+    margin-top: 14px;
+}
+.Forms3 {
+     margin-top: 10px;
+}
+.MailForm {
+    position: relative;
+    margin-bottom: 10px;
+}
+.sp1 {
+    position: absolute;
+    top: 1.4px;
+    left: 155px;
+    color: red;
+    font-size: 16px;
+}
+.sps1 {
+    position: absolute;
+    top: 1.4px;
+    left: 83px;
+    color: red;
+    font-size: 16px;
+}
+.sps2 {
+    position: absolute;
+    top: 1px;
+    left: 120px;
+    color: red;
+    font-size: 16px;
+}
+.sp2 {
+    position: absolute;
+    top: 1.4px;
+    left: 40px;
+    color: red;
+    font-size: 16px;
+}
+.sps3 {
+    position: absolute;
+    top: 1.4px;
+    left: 85px;
+    color: red;
+    font-size: 16px;
+}
+.sps4 {
+    position: absolute;
+    top: 1.4px;
+    left: 40px;
+    color: red;
+    font-size: 16px;
+}
+.sps5 {
+    position: absolute;
+    top: 1.4px;
+    left: 100px;
+    color: red;
+    font-size: 16px;
+}
+.sps6 {
+    position: absolute;
+    top: 1.4px;
+    left: 60px;
+    color: red;
+    font-size: 16px;
+}
+.RadioLb {
+    margin-left: 110px;
+}
+
+
+.Checkbox {
+    position: relative;
+    margin-left: 185px;
+}
+.Gender {
+    position: absolute;
+    bottom: 10px;
+    margin-left: 5px;
+}
+.Women {
+    margin-left: 60px;
+}
+
+
+.Checkbox input {
+    position: absolute;
+    top: 6px;
+   left: -13.5px;
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+}
+.Checkbox label {
+    cursor: pointer;
+    font-weight: lighter;
+    font-family: "Roboto";
+    color: rgb(110, 110, 110);
+}
+.Checkbox1 {
+    position: relative;
+    margin-left: 24px;
+}
+
+
+.Checkbox1 input {
+    position: absolute;
+    top: 6px;
+   left: -13.5px;
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+}
+
+.Checkbox1 label {
+    cursor: pointer;
+    font-family: "Roboto";
+    color: rgb(62, 62, 62);
+}
+.Btns {
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.Signin {
+    border: 1px solid black;
+    padding-left: 15px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-right: 15px;
+    border-radius: 9px;
+    background-color: #2e2d2d;
+    color: rgb(255, 255, 255);
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+.Signup2 {
+    border: 1px solid black;
+    padding-left: 12px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-right: 12px;
+    border-radius: 9px;
+    font-size: 15px;
+    background-color: #2e2d2d;
+    color: rgb(255, 255, 255);
+    margin-right: 20px;
+    margin-bottom: 11px;
+}
+.Signup2:hover {
+    background-color: #000000;
+}
+.Signin:hover {
+    background-color: #000000;
+}
+.Signup {
+    position: relative;
+    bottom: 45px;
+    left: 515px;
+    font-size: 14px;
+    border: 1px solid rgb(190, 190, 190);
+    color: rgb(35, 33, 33);
+    padding-top: 6.5px;
+    padding-bottom: 6.5px;
+    border-radius: 10px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.Signup:hover {
+    border: 1px solid rgb(110, 110, 110);
+}
+.Alert1 {
+    font-size: 10.9px;
+    margin-left: 170px;
+    margin-bottom: 4px;
+    border: 1px solid rgb(199, 57, 57);
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 6px;
+    background-color: rgb(199, 57, 57);
+    color: #FFFFFF;
+} 
+.Alerts1 {
+    margin-left: 169px;
+    margin-top: 5px;
+    font-size: 10.9px;
+    border: 1px solid rgb(199, 57, 57);
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 6px;
+    background-color: rgb(199, 57, 57);
+    color: #FFFFFF;
+} 
+.Alerts2 {
+    margin-left: 170px;
+    margin-top: 4px;
+    font-size: 10.9px;
+    border: 1px solid rgb(199, 57, 57);
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 6px;
+    background-color: rgb(199, 57, 57);
+    color: #FFFFFF;
+} 
+.Alerts3 {
+    margin-left: 170px;
+    margin-top: 14px;
+    font-size: 10.9px;
+    border: 1px solid rgb(199, 57, 57);
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 6px;
+    background-color: rgb(199, 57, 57);
+    color: #FFFFFF;
+} 
+.Alerts4 {
+    margin-left: 170px;
+    margin-top: -2px;
+    font-size: 10.9px;
+    border: 1px solid rgb(199, 57, 57);
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 6px;
+    background-color: rgb(199, 57, 57);
+    color: #FFFFFF;
+} 
+.Alerts5 {
+    margin-left: 170px;
+    margin-top: 4px;
+    font-size: 10.9px;
+    border: 1px solid rgb(199, 57, 57);
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 6px;
+    background-color: rgb(199, 57, 57);
+    color: #FFFFFF;
+} 
+.Alerts6 {
+    margin-left: 10px;
+    margin-top: 4px;
+    font-size: 10.9px;
+    border: 1px solid rgb(199, 57, 57);
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 6px;
+    background-color: rgb(199, 57, 57);
+    color: #FFFFFF;
+} 

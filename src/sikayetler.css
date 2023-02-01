@@ -1,0 +1,71 @@
+.Kecidler  {
+    margin-top: 30px;
+    margin-left: 10px;
+    position: relative;
+}
+.Kecidler a {
+    color: rgb(107, 102, 102);
+}
+.Kecidler a span {
+    font-size: 18px;
+    font-weight: bolder;
+}
+.RightIcon {
+    position: absolute;
+    top: 6px;
+    left: 115px;
+}
+.Kecidler label {
+    position: absolute;
+    left: 140px;
+    top: 1.56px;
+    color: black;
+    font-size: 17px;
+}
+.FormSikayet {
+    border: 1px solid rgb(226, 226, 226);
+    padding: 40px;
+    border-radius: 8px;
+}
+.adinput {
+    width: 550px;
+    height: 55px;
+    border: 1px solid rgb(210, 210, 210);
+    border-radius: 6px;
+    padding-left: 10px;
+    font-size: 15px;
+}
+.adinput2 {
+    margin-left: 70px;
+    width: 550px;
+    height: 55px;
+    border: 1px solid rgb(210, 210, 210);
+    border-radius: 6px;
+    padding-left: 10px;
+    font-size: 15px;
+}
+.adinput3 {
+    width: 1170px;
+    height: 75px;
+    margin-top: 30px;
+    border: 1px solid rgb(210, 210, 210);
+    border-radius: 6px;
+    padding-left: 10px;
+    font-size: 15px;
+}
+.btns1 {
+    margin-top: 30px;
+    margin-left: 63rem;
+    width: 160px;
+    border: 1px solid rgb(76, 198, 76);
+    border-radius: 5px;
+    background-color: rgb(62, 177, 62);
+    height: 45px;
+    color: white;
+    font-weight: bolder;
+}
+.btns1:hover {
+    background-color: white;
+    color: rgb(62, 177, 62);
+    transition: 500ms all;
+}

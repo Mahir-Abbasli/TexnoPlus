@@ -1,0 +1,97 @@
+.iframe_map iframe{
+    margin-left: 64.5px;
+    margin-right: 64.5px;
+    border-radius: 15px;
+    border: 1px solid;
+}
+
+.filiallar_sozu{
+    font-size: 35px;
+    margin-left: 47px;
+    margin-top: 15px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    color: black;
+}
+
+.baki_seheri{
+    margin-top: 20px;
+    margin-left: 75px;
+    margin-right: 75px;
+    color: rgb(33, 37, 41);
+    font-weight: 590;
+    margin-bottom: 30px;
+}
+
+.filiallar_div{
+    margin-left: 83px;
+    margin-right: 83px;
+}
+
+.Kecidler  {
+    margin-top: 30px;
+    margin-left: 10px;
+    position: relative;
+}
+.Kecidler a {
+    color: rgb(107, 102, 102);
+}
+.Kecidler a span {
+    font-size: 18px;
+    font-weight: bolder;
+}
+.RightIcon {
+    position: absolute;
+    top: 6px;
+    left: 115px;
+}
+.Kecidler label {
+    position: absolute;
+    left: 140px;
+    top: 1.56px;
+    color: black;
+    font-size: 17px;
+}
+
+.filiallar_kicik_div_part{
+    display: flex;
+}
+
+.filiallar_kicik_div{
+    width: 273.25px;
+    height: 250px;
+    margin-right: 10px;
+}
+
+.adi_filial{
+    width: 273.5px;
+    height: 20px;
+    color: black;
+    font-weight: bolder;
+}
+
+.adres_filial{
+    width: 273.5px;
+    height: auto;
+    font-size: 14px;
+    margin-bottom: 18px;
+}
+
+.is_saati_filial{
+    width: 273.5px;
+    height: auto;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.tel_filial{
+    width: 273.5px;
+    height: auto;
+    font-size: 14px;
+}
+
+.mob_filial{
+    width: 273.5px;
+    height: auto;
+    font-size: 14px;
+}

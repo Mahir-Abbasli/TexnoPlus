@@ -1,0 +1,88 @@
+.h1_class{
+    font-size: 35px;
+    margin-left: 45px;
+    margin-top: 15px;
+    font-weight: 600;
+    margin-bottom: 45px;
+    color: black;
+}
+
+.Kecidler  {
+    margin-top: 30px;
+    margin-left: 10px;
+    position: relative;
+}
+.Kecidler a {
+    color: rgb(107, 102, 102);
+}
+.Kecidler a span {
+    font-size: 18px;
+    font-weight: bolder;
+}
+.RightIcon {
+    position: absolute;
+    top: 6px;
+    left: 115px;
+}
+.Kecidler label {
+    position: absolute;
+    left: 140px;
+    top: 1.56px;
+    color: black;
+    font-size: 17px;
+}
+
+.full_div{
+    display: flex;
+    margin-top: 30px;
+}
+
+.xeber{
+    width: 420px;
+    height: 380px;
+    border: 1px #777777 solid;
+    border-radius: 15px;
+    margin-left: 13px;
+}
+
+.sekil_div1 img{
+    width: 418.5px;
+    height: 215.34px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.tarix_soz_1{
+    height: 87.75px;
+    padding-top: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.tarix1{
+    font-size: 14.5px;
+    margin-bottom: 0;
+}
+
+.cumle1{
+    color: black;
+    font-size: 19px;
+    font-weight: bolder;
+    margin-bottom: 0;
+    margin-top: 5px;
+}
+
+.pointer{
+    padding-left: 25px;
+    padding-top: 20px;
+}
+
+.zaman1 span{
+    color:rgb(255, 0, 60);
+    border: 1px solid #777777;
+    border-radius: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}

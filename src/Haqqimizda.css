@@ -1,0 +1,104 @@
+.AboutUs {
+    margin-top: 25px;
+    font-size: 33px;
+    font-weight: 600;
+    color: black;
+}
+.About1 {
+    margin-top: 40px;
+}
+strong {
+    font-size: 18px;
+}
+.WhoWe {
+    margin-top: 14px;
+    font-style: italic;
+    text-align: justify;
+}
+.lis {
+    list-style-type: disc;
+}
+.lis span {
+    text-align: justify;
+}
+.lis strong {
+    margin-left: -10px;
+}
+
+.About2 {
+    margin-top: 30px;
+}
+.About3 {
+    margin-top: 40px;
+}
+
+.About4 {
+    margin-top: 50px;
+    display: flex;
+}
+.About4 img {
+    width: 70;
+    height: 70px;
+}
+.firstdelivery {
+    margin-left: 15px;
+    position: relative;
+}
+.firstdelivery2 {
+    margin-left: 310px;
+    position: relative;
+}
+.firstdelivery3 {
+    margin-left: 280px;
+    position: relative;
+}
+.firstdelivery4 {
+    margin-left: 300px;
+    position: relative;
+}
+.caption {
+    display: inline;
+}
+.caption .st {
+    width: 200px;
+    position: absolute;
+    font-size: 18px;
+    font-weight: bolder;
+    color: black;
+    left: 91px;
+}
+.caption .sn {
+    width: 200px;
+    position: absolute;
+    top: 29px;
+    color: rgb(3, 3, 3);
+    font-size: 16px;
+    left: 90px;
+}
+.firstdelivery::after {
+    position: absolute;
+    top: 2px;
+    left: 335px;
+    content: "";
+    background-color: black;
+    width: 0.1px;
+    height: 66px;
+}
+.firstdelivery2::after {
+    position: absolute;
+    top: 2px;
+    left: 310px;
+    content: "";
+    background-color: black;
+    width: 0.1px;
+    height: 66px;
+}
+.firstdelivery3::after {
+    position: absolute;
+    top: 2px;
+    left: 290px;
+    content: "";
+    background-color: black;
+    width: 0.1px;
+    height: 66px;
+}

@@ -1,0 +1,80 @@
+.bloglar_h1{
+    font-size: 35px;
+    margin-left: 45px;
+    margin-top: 15px;
+    font-weight: 600;
+    margin-bottom: 45px;
+    color: black;
+}
+
+.full_div1{
+    display: flex;
+    margin-top: 30px;
+}
+
+.blog{
+    width: 420px;
+    height: 485px;
+    border: 1px #777777 solid;
+    border-radius: 15px;
+    margin-left: 13px;
+}
+
+.sekil_div2 img{
+    width: 418.5px;
+    height: 225.34px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.tarix_soz_2{
+    height: 101px;
+    padding-top: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.tarix_soz_2 span{
+    margin-top: 0;
+}
+
+.cumle2{
+    color: black;
+    font-size: 19px;
+    font-weight: bolder;
+    margin-bottom: 0;
+}
+
+.cumleler_div{
+    height: 121.5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 13.5px;
+    color: #777777;
+    margin-top: 10px;
+}
+
+.Kecidler  {
+    margin-top: 30px;
+    margin-left: 10px;
+    position: relative;
+}
+.Kecidler a {
+    color: rgb(107, 102, 102);
+}
+.Kecidler a span {
+    font-size: 18px;
+    font-weight: bolder;
+}
+.RightIcon {
+    position: absolute;
+    top: 6px;
+    left: 115px;
+}
+.Kecidler label {
+    position: absolute;
+    left: 140px;
+    top: 1.56px;
+    color: black;
+    font-size: 17px;
+}

@@ -1,0 +1,93 @@
+.zemanetler{
+    margin-top: 30px;
+}
+
+.Zemanetler_soz13{
+    height: 270px;
+    padding-top: 63.75px;
+    font-size: 35px;
+    padding-left: 45px;
+    margin-top: 40px;
+    font-weight: 600;
+    margin-bottom: 45px;
+    color: black;
+    display: inline;
+}
+
+.opsi_zemanet{
+    height: 270px;
+    background-color: #F7F6F2;
+}
+
+.Zemanetler_person{
+    margin-left: 720px;
+    margin-top: 50px;
+    padding-top: 15px;
+    width: 180px;
+}
+
+.accordion_header_1H{
+    margin-bottom: 20px;
+    margin-left: 299.5px;
+    margin-right: 299.5px;
+    margin-top: 10px;
+}
+
+.accordion_header_1{
+    width: 600px;
+    height: 50px;
+    font-size: 18px;
+    color: #777777;
+    border: 1px solid #777777;
+    border-radius: 3px;
+    margin-bottom: 0;
+}
+.Kecidler  {
+    margin-top: 30px;
+    margin-left: 10px;
+    position: relative;
+}
+.Kecidler a {
+    color: rgb(107, 102, 102);
+}
+.Kecidler a span {
+    font-size: 18px;
+    font-weight: bolder;
+}
+.RightIcon {
+    position: absolute;
+    top: 6px;
+    left: 115px;
+}
+.Kecidler label {
+    position: absolute;
+    left: 140px;
+    top: 1.56px;
+    color: black;
+    font-size: 17px;
+}
+
+.accordion-button{
+    width: 600px;
+    height: 50px;
+    padding-right: 410px;
+}
+
+.teleb_34{
+    margin-top: 40px;
+    color: black;
+    font-weight: 500;
+}
+
+.p145{
+    width: 580px;
+}
+
+.image_rm{
+    margin-top: 45px;
+}
+
+.image_rMm{
+    margin-top: 45px;
+    margin-bottom: 30px;
+}

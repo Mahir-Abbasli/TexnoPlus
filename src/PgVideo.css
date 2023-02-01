@@ -1,0 +1,63 @@
+.PgVideo {
+    background-color: rgb(37,52,68);
+    height: 370px;
+    margin-left: -110px;
+    margin-right: -110px;
+    margin-top: 90px;
+}
+.Tvtitle {
+    padding-top: 6px;
+}
+.Tvtitle p {
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: bolder;
+    font-size: 40px;
+}
+.Tvcontext {
+    display: flex;
+    margin-top: 21px;
+    margin-left: 104px;
+    margin-right: 110px;
+    height: 200px;
+}
+.Video_item {
+    margin-right: 20px;
+}
+.Itemvideo {
+    position: relative;
+}
+.Itemvideo a img {
+    width: 420px;
+    height: 230px;
+    border-radius: 6px;
+}
+
+.Playicon {
+    position: absolute;
+    top: 39%;
+    left: 45%;
+    color: #FFFFFF;
+    width: 34px;
+    height: 34px;
+    border-radius: 50px;
+    padding: 15px;
+    background-color: rgba(255, 0, 0, 0.926);
+}
+
+.Playicon:hover {
+    width: 45px;
+    height: 45px;
+    transition: 0.4s;
+    position: absolute;
+    top: 37.5%;
+    left: 43.5%;
+}
+.Itemvideo p {
+    margin-top: 6px;
+    margin-left: 70px;
+    color: rgb(210, 210,210);
+    font-size: 20px;
+}
+
+

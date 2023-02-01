@@ -1,0 +1,51 @@
+.bc_div {
+    border: 2px solid rgb(235, 235, 235);
+   margin-left: 10px;
+    width: 753px;
+    height: 403.5px;
+}
+.image1 img {
+    width: 750px;
+    height: 400px;
+    margin-top: 0.8px;
+    margin-left: 0.5px;
+} 
+.button_16 svg {
+    color: rgb(220, 220, 220);
+    font-weight: bolder;
+    width: 30px;
+    height: 30px;
+}
+
+.slide ol {
+    margin-bottom: 24px;
+    z-index: 1;
+}
+.carousel-indicators li {
+    background-color: rgb(220, 220, 220);
+}
+.slide {
+    position: relative;
+}
+.previousbtn {
+    position: absolute;
+    top: 200px;
+    left: 25px;
+}
+.nextbtn {
+    position: absolute;
+    top: 200px;
+    left: 705px;
+}
+.KrKartlar {
+    margin-top: 5px;
+    display: flex;
+    margin-left: 10px;
+}
+.KrKartlar img {
+    border-radius: 2px;
+    border: 0.1px solid rgb(220, 220, 220);
+    margin-right: 10px;
+    width: 372px;
+    height: 128px;
+}
